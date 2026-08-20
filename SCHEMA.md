@@ -495,7 +495,7 @@ https://louisianaaihub.com/ledger
 
 # Distribution integrity
 
-The official public snapshot package includes a machine-readable manifest and `SHA256SUMS`.
+The official public snapshot package includes a machine-readable manifest and `SHA256SUMS.txt`.
 
 SHA-256 values can be used to determine whether a downloaded file matches the official Louisiana AI Hub snapshot.
 
