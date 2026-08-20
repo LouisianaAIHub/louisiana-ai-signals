@@ -6,14 +6,14 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 
 ## Dataset identity
 
-- **Dataset:** Louisiana AI Signals — Public Ledger
-- **Dataset ID:** `louisiana-ai-signals-public-ledger`
-- **Publisher:** Louisiana AI Hub, LLC
-- **Canonical Ledger:** https://louisianaaihub.com/ledger
-- **Current snapshot date:** 2026-08-18
-- **Current dataset version:** `2026-08-18-r2`
-- **Current record range:** `LAIS-0001` through `LAIS-0150`
-- **Current record count:** 150
+* **Dataset:** Louisiana AI Signals — Public Ledger
+* **Dataset ID:** `louisiana-ai-signals-public-ledger`
+* **Publisher:** Louisiana AI Hub, LLC
+* **Canonical Ledger:** https://louisianaaihub.com/ledger
+* **Current snapshot date:** 2026-08-18
+* **Current dataset version:** `2026-08-18-r2`
+* **Current record range:** `LAIS-0001` through `LAIS-0150`
+* **Current record count:** 150
 
 ## Authority and scope
 
@@ -27,41 +27,41 @@ This repository is limited to the **Louisiana AI Signals / Public Ledger** datas
 
 It does not distribute:
 
-- the Louisiana AI Hub Source Register as a dataset;
-- preserved source PDFs or source-reference PDFs;
-- project-profile datasets;
-- parish or Parish Intelligence datasets;
-- Power & Grid datasets;
-- Water & Utility datasets;
-- commercial or Project Intelligence data;
-- internal research or unpublished intelligence.
+* the Louisiana AI Hub Source Register as a dataset;
+* preserved source PDFs or source-reference PDFs;
+* project-profile datasets;
+* parish or Parish Intelligence datasets;
+* Power & Grid datasets;
+* Water & Utility datasets;
+* commercial or Project Intelligence data;
+* internal research or unpublished intelligence.
 
 ## Public distribution files
 
 The official snapshot package includes:
 
-- `louisiana-ai-signals-public-ledger.csv`
-- `louisiana-ai-signals-public-ledger.json`
-- `louisiana-ai-signals-public-ledger-manifest.json`
-- `SHA256SUMS`
+* `louisiana-ai-signals-public-ledger.csv`
+* `louisiana-ai-signals-public-ledger.json`
+* `louisiana-ai-signals-public-ledger-manifest.json`
+* `SHA256SUMS.txt`
 
 The CSV and JSON contain the governed Public Ledger records and approved provenance metadata.
 
 The manifest identifies the publisher, dataset version, snapshot date, canonical authority, record range, distribution files, and integrity information.
 
-`SHA256SUMS` provides SHA-256 hashes for verifying whether downloaded files match the official published snapshot.
+`SHA256SUMS.txt` provides SHA-256 hashes for verifying whether downloaded files match the official published snapshot.
 
 ## Record provenance
 
 Each distributed LAIS record carries a provenance spine including:
 
-- stable `signal_id`;
-- publisher;
-- dataset name;
-- dataset version;
-- canonical Ledger URL;
-- canonical record URL;
-- Citation & Use URL.
+* stable `signal_id`;
+* publisher;
+* dataset name;
+* dataset version;
+* canonical Ledger URL;
+* canonical record URL;
+* Citation & Use URL.
 
 Example canonical record:
 
