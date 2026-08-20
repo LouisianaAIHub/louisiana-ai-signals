@@ -1,0 +1,37 @@
+{
+  "manifest_schema_version": "1.1",
+  "dataset_id": "louisiana-ai-signals-public-ledger",
+  "dataset_name": "Louisiana AI Signals — Public Ledger",
+  "publisher": {
+    "name": "Louisiana AI Hub, LLC",
+    "url": "https://louisianaaihub.com/"
+  },
+  "canonical_ledger_url": "https://louisianaaihub.com/ledger",
+  "citation_and_use_url": "https://louisianaaihub.com/citation-use",
+  "snapshot_date": "2026-08-18",
+  "dataset_version": "2026-08-18-r2",
+  "generated_date": "2026-08-19",
+  "record_count": 150,
+  "lais_range": {
+    "first": "LAIS-0001",
+    "last": "LAIS-0150"
+  },
+  "system_of_record_note": "The Public Ledger at LouisianaAIHub.com/ledger remains the authoritative current system of record. External files are public distribution snapshots/convenience exports.",
+  "integrity_note": "SHA-256 values verify whether a downloaded distribution matches this official snapshot; they do not prevent downstream modification.",
+  "distributions": [
+    {
+      "filename": "louisiana-ai-signals-public-ledger.csv",
+      "url": "https://louisianaaihub.com/data/louisiana-ai-signals-public-ledger.csv",
+      "media_type": "text/csv",
+      "bytes": 98448,
+      "sha256": "cc9ea276daace49e2ec13b40433b354c8a17cbfea82437342d5fe7e6c7141261"
+    },
+    {
+      "filename": "louisiana-ai-signals-public-ledger.json",
+      "url": "https://louisianaaihub.com/data/louisiana-ai-signals-public-ledger.json",
+      "media_type": "application/json",
+      "bytes": 212670,
+      "sha256": "5f994f930c914cd7d5004d037a4f8a363081657e738ee2ebcd98bd4ef418ff7b"
+    }
+  ]
+}
