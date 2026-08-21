@@ -7,12 +7,12 @@
   },
   "canonical_ledger_url": "https://louisianaaihub.com/ledger",
   "citation_and_use_url": "https://louisianaaihub.com/citation-use",
-  "dataset_version": "2026-08-18-r2",
-  "snapshot_date": "2026-08-18",
-  "generated_from": "Louisiana AI Hub v10.7 public ledger reconciliation",
-  "generated_date": "2026-08-19",
-  "record_count": 150,
-  "logged_signal_count": 149,
+  "dataset_version": "2026-08-21-r1",
+  "snapshot_date": "2026-08-21",
+  "generated_from": "Louisiana AI Hub v10.8.9 public ledger reconciliation",
+  "generated_date": "2026-08-21",
+  "record_count": 151,
+  "logged_signal_count": 150,
   "corrected_record_count": 1,
   "terms_note": "Public convenience export. The Public Ledger remains the system of record.",
   "records": [
@@ -40,7 +40,7 @@
       "current_project_scope": "No",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0001",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -69,7 +69,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0002",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -98,7 +98,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0003",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -127,7 +127,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0004",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -156,7 +156,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0005",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -185,7 +185,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0006",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -214,7 +214,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0007",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -243,7 +243,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0008",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -272,7 +272,7 @@
       "current_project_scope": "No",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0009",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -301,7 +301,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0010",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -330,7 +330,7 @@
       "current_project_scope": "No",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0011",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -359,7 +359,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0012",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -388,7 +388,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0013",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -417,7 +417,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0014",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -446,7 +446,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0015",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -475,7 +475,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0016",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -504,7 +504,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0017",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -533,7 +533,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0018",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -562,7 +562,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0019",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -591,7 +591,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0020",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -620,7 +620,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0021",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -649,7 +649,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0022",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -678,7 +678,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0023",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -707,7 +707,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0024",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -736,7 +736,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0025",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -765,7 +765,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0026",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -794,7 +794,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0027",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -823,7 +823,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0028",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -852,7 +852,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0029",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -881,7 +881,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0030",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -910,7 +910,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0031",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -939,7 +939,7 @@
       "current_project_scope": "No",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0032",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -968,7 +968,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0033",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -997,7 +997,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0034",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1026,7 +1026,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0035",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1055,7 +1055,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0036",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1084,7 +1084,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0037",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1113,7 +1113,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0038",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1142,7 +1142,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0039",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1171,7 +1171,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0040",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1200,7 +1200,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0041",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1229,7 +1229,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0042",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1258,7 +1258,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0043",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1287,7 +1287,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0044",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1316,7 +1316,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0045",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1345,7 +1345,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0046",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1374,7 +1374,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0047",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1403,7 +1403,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0048",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1432,7 +1432,7 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0049",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1461,7 +1461,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0050",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1490,7 +1490,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0051",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1519,7 +1519,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0052",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1548,7 +1548,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0053",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1577,7 +1577,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0054",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1606,7 +1606,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0055",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1635,7 +1635,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0056",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1664,7 +1664,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0057",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1693,7 +1693,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0058",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1722,7 +1722,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0059",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1751,7 +1751,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0060",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1780,7 +1780,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0061",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1809,7 +1809,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0062",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1838,7 +1838,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0063",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1867,7 +1867,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0064",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1896,7 +1896,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0065",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1925,7 +1925,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0066",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1954,7 +1954,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0067",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -1983,7 +1983,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0068",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2012,7 +2012,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0069",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2041,7 +2041,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0070",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2070,7 +2070,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0071",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2099,7 +2099,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0072",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2128,7 +2128,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0073",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2157,7 +2157,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0074",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2186,7 +2186,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0075",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2215,7 +2215,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0076",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2244,7 +2244,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0077",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2273,7 +2273,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0078",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2302,7 +2302,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0079",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2331,7 +2331,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0080",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2360,7 +2360,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0081",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2389,7 +2389,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0082",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2418,7 +2418,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0083",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2447,7 +2447,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0084",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2476,7 +2476,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0085",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2505,7 +2505,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0086",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2534,7 +2534,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0087",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2563,7 +2563,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0088",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2592,7 +2592,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0089",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2621,7 +2621,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0090",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2650,7 +2650,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0091",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2679,7 +2679,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0092",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2708,7 +2708,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0093",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2737,7 +2737,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0094",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2766,7 +2766,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0095",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2795,7 +2795,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0096",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2824,7 +2824,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0097",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2853,7 +2853,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0098",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2882,7 +2882,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0099",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2911,7 +2911,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0100",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2940,7 +2940,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0101",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2969,7 +2969,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0102",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -2998,7 +2998,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0103",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3027,7 +3027,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0104",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3056,7 +3056,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0105",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3085,7 +3085,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0106",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3114,7 +3114,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0107",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3143,7 +3143,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0108",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3172,7 +3172,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0109",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3201,7 +3201,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0110",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3230,7 +3230,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0111",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3259,7 +3259,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0112",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3288,7 +3288,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0113",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3317,7 +3317,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0114",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3346,7 +3346,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0115",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3375,7 +3375,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0116",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3404,7 +3404,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0117",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3433,7 +3433,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0118",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3462,7 +3462,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0119",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3491,7 +3491,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0120",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3520,7 +3520,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0121",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3549,7 +3549,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0122",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3578,7 +3578,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0123",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3607,7 +3607,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0124",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3636,7 +3636,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0125",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3665,7 +3665,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0126",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3694,7 +3694,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0127",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3723,7 +3723,7 @@
       "current_project_scope": "No",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0128",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3752,7 +3752,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0129",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3781,7 +3781,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0130",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3810,7 +3810,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0131",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3839,7 +3839,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0132",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3868,7 +3868,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0133",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3897,7 +3897,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0134",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3926,7 +3926,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0135",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3955,7 +3955,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0136",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -3984,7 +3984,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0137",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4013,7 +4013,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0138",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4042,7 +4042,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0139",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4071,7 +4071,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0140",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4100,7 +4100,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0141",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4129,7 +4129,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0142",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4158,7 +4158,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0143",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4187,7 +4187,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0144",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4216,7 +4216,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0145",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4245,7 +4245,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0146",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4274,7 +4274,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0147",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4303,7 +4303,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0148",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4332,7 +4332,7 @@
       "current_project_scope": "Not applicable",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0149",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
@@ -4361,9 +4361,38 @@
       "current_project_scope": "Yes",
       "publisher_name": "Louisiana AI Hub, LLC",
       "dataset_name": "Louisiana AI Signals — Public Ledger",
-      "dataset_version": "2026-08-18-r2",
+      "dataset_version": "2026-08-21-r1",
       "canonical_ledger_url": "https://louisianaaihub.com/ledger",
       "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0150",
+      "citation_and_use_url": "https://louisianaaihub.com/citation-use"
+    },
+    {
+      "signal_id": "LAIS-0151",
+      "source_date": "2026-08-17",
+      "funding_type": "Private Contract Value",
+      "conversion_stage": "Contracted",
+      "signal_title": "GDIT signs up-to-ten-year lease extending Bossier City Integrated Technology Center operations spanning AI, cyber and software development",
+      "source_url_or_path": "https://louisianaaihub.com/sources/2026-08-21_GDIT_Bossier_ITC_Lease_SourceReference.pdf",
+      "source_type": "Primary (Company)",
+      "geography_name": "Bossier City / Bossier Parish",
+      "counterparty_name": "GDIT / Cyber Innovation Center Inc.",
+      "counterparty_class": "Technology Company",
+      "primary_constraint": "Workforce",
+      "amount_usd": "—",
+      "signal_status": "LOGGED",
+      "project_family": "GDIT Bossier Integrated Technology Center",
+      "amount_display": "Undisclosed lease value",
+      "amount_usd_floor": "",
+      "amount_qualifier": "Undisclosed",
+      "aggregation_role": "No disclosed monetary value; excluded from monetary rollups",
+      "superseded_by": "",
+      "supersedes": "",
+      "current_project_scope": "Not applicable",
+      "publisher_name": "Louisiana AI Hub, LLC",
+      "dataset_name": "Louisiana AI Signals — Public Ledger",
+      "dataset_version": "2026-08-21-r1",
+      "canonical_ledger_url": "https://louisianaaihub.com/ledger",
+      "canonical_record_url": "https://louisianaaihub.com/ledger#lais-0151",
       "citation_and_use_url": "https://louisianaaihub.com/citation-use"
     }
   ],

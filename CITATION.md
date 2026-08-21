@@ -12,7 +12,7 @@ The Public Ledger at LouisianaAIHub.com remains the authoritative current system
 
 For citation of the dataset generally, use:
 
-> Louisiana AI Hub, LLC. *Louisiana AI Signals — Public Ledger*. Version `2026-08-18-r2`, snapshot date 2026-08-18. https://louisianaaihub.com/ledger
+> Louisiana AI Hub, LLC. *Louisiana AI Signals — Public Ledger*. Version `2026-08-21-r1`, snapshot date 2026-08-21. https://louisianaaihub.com/ledger
 
 A shorter attribution may be used where appropriate:
 
@@ -24,11 +24,11 @@ When citing an individual record, retain its stable `LAIS-####` identifier whene
 
 Recommended format:
 
-> Louisiana AI Hub, LLC. `LAIS-####`, “[signal title].” *Louisiana AI Signals — Public Ledger*. Version `2026-08-18-r2`. [canonical record URL]
+> Louisiana AI Hub, LLC. `LAIS-####`, “[signal title].” *Louisiana AI Signals — Public Ledger*. Version `2026-08-21-r1`. [canonical record URL]
 
 Example:
 
-> Louisiana AI Hub, LLC. `LAIS-0150`, “Amazon expands Northwest Louisiana planned data-center investment to $18B and three planned campuses.” *Louisiana AI Signals — Public Ledger*. Version `2026-08-18-r2`. https://louisianaaihub.com/ledger#lais-0150
+> Louisiana AI Hub, LLC. `LAIS-0150`, “Amazon expands Northwest Louisiana planned data-center investment to $18B and three planned campuses.” *Louisiana AI Signals — Public Ledger*. Version `2026-08-21-r1`. https://louisianaaihub.com/ledger#lais-0150
 
 LAIS identifiers are stable. Do not renumber them in downstream use.
 
@@ -41,12 +41,12 @@ When the analysis depends on the contents of a particular snapshot, include both
 
 For the current distribution:
 
-- **Dataset version:** `2026-08-18-r2`
-- **Snapshot date:** `2026-08-18`
+- **Dataset version:** `2026-08-21-r1`
+- **Snapshot date:** `2026-08-21`
 
 Recommended format:
 
-> Louisiana AI Hub, LLC. *Louisiana AI Signals — Public Ledger*. Dataset version `2026-08-18-r2`; snapshot date 2026-08-18. https://louisianaaihub.com/ledger
+> Louisiana AI Hub, LLC. *Louisiana AI Signals — Public Ledger*. Dataset version `2026-08-21-r1`; snapshot date 2026-08-21. https://louisianaaihub.com/ledger
 
 If a version-specific GitHub release or permanent archive URL is available for the cited snapshot, it may also be included as a distribution reference. LouisianaAIHub.com/ledger remains the canonical current source.
 
@@ -56,7 +56,7 @@ If the dataset has been filtered, transformed, merged, reformatted, analyzed, su
 
 Recommended attribution:
 
-> Based on Louisiana AI Hub, LLC, *Louisiana AI Signals — Public Ledger*, version `2026-08-18-r2`, snapshot date 2026-08-18. Modified/derived by [name or organization]. The resulting work is not an official Louisiana AI Hub release.
+> Based on Louisiana AI Hub, LLC, *Louisiana AI Signals — Public Ledger*, version `2026-08-21-r1`, snapshot date 2026-08-21. Modified/derived by [name or organization]. The resulting work is not an official Louisiana AI Hub release.
 
 Do not represent a modified or derived dataset as the unmodified official Louisiana AI Signals dataset.
 
