@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-08-26-r2 — 2026-08-26
+
+- Added `LAIS-0155`: BetaFlix AI-powered Fabrication Flight Aircraft Maintenance Trainer (FFAMT), $1,249,997 total obligation.
+- Added `LAIS-0156`: BoRSF RCS 121A-26 — machine-learning-accelerated quantum-mechanical calculations, $31,766.
+- Added `LAIS-0157`: BoRSF RCS 033A-26 — security for multi-tenant superconducting quantum-computing hardware, $73,926.
+- Added `LAIS-0158`: BoRSF RCS 011A-26 — AI-based Louisiana coastal-wetland biomass monitoring, $192,512.
+- Updated `LAIS-0140` to the production source date `2026-03-24` and the current 2026 Board of Regents RCS source-reference URL.
+- Updated `LAIS-0154` amount presentation from `$100 billion announced investment` to `At least $100 billion planned investment` and set `amount_qualifier` to `At least`; the underlying `amount_usd` remains `100000000000`.
+- Public Ledger now contains 158 records: `LAIS-0001` through `LAIS-0158`.
+- Status composition is 157 `LOGGED` / 1 `CORRECTED`.
+- No governed schema change.
+- All pre-existing records advance their release-scoped `dataset_version` provenance field from `2026-08-25-r1` to `2026-08-26-r2`; apart from the two production corrections above, no other substantive historical Ledger values changed.
+- Production `SHA256SUMS.txt` for this release authenticates the canonical CSV and JSON source artifacts; the manifest remains included as release metadata.
+
 ## 2026-08-25-r1 — 2026-08-25
 
 - Added `LAIS-0152`: SpaceX $25 million Community Foundation of Acadiana commitment associated with the Starbase Louisiana incentive package.

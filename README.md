@@ -10,11 +10,11 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Dataset ID:** `louisiana-ai-signals-public-ledger`
 * **Publisher:** Louisiana AI Hub, LLC
 * **Canonical Ledger:** https://louisianaaihub.com/ledger
-* **Current snapshot date:** 2026-08-25
-* **Current dataset version:** `2026-08-25-r1`
-* **Current record range:** `LAIS-0001` through `LAIS-0154`
-* **Current record count:** 154
-* **Current status composition:** 153 `LOGGED` / 1 `CORRECTED`
+* **Current snapshot date:** 2026-08-26
+* **Current dataset version:** `2026-08-26-r2`
+* **Current record range:** `LAIS-0001` through `LAIS-0158`
+* **Current record count:** 158
+* **Current status composition:** 157 `LOGGED` / 1 `CORRECTED`
 
 ## Authority and scope
 
@@ -50,7 +50,7 @@ The CSV and JSON contain the governed Public Ledger records and approved provena
 
 The manifest identifies the publisher, dataset version, snapshot date, canonical authority, record range, distribution files, and integrity information.
 
-`SHA256SUMS.txt` provides SHA-256 hashes for verifying whether downloaded files match the official published snapshot.
+`SHA256SUMS.txt` provides SHA-256 hashes for the canonical CSV and JSON distribution files.
 
 ## Record provenance
 
