@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-08-31-r1 — 2026-08-31
+
+- Added `LAIS-0159`: N0001424C1302 — ONR AI/ML research contract performed principally in Baton Rouge by Integer Technologies and LSU; $9,826,205 current federal contract obligation.
+- Added `LAIS-0160`: Integer Technologies Baton Rouge expansion with 23 new direct jobs and 9 retained jobs; investment amount undisclosed and excluded from monetary rollups.
+- Added `LAIS-0161`: Louisiana CEMC approves $129,532 for ULM AI-powered cybersecurity education.
+- Added `LAIS-0162`: N0003926F7821 — GDIT Navy NESD AI/ML task order; $27,979,828.76 current task-order obligation.
+- Added `LAIS-0163`: Tulane receives $2 million gift establishing the Mark D. Wheeler Chair in Artificial Intelligence.
+- Added `LAIS-0164`: NSF 2608182 — Quantum communications in non-ideal environments; $194,596.
+- Added `LAIS-0165`: State-funded Louisiana AI Drug Development Infrastructure for ALS launches statewide AI-based research initiative; funding amount undisclosed and excluded from monetary rollups.
+- Added `LAIS-0166`: ONE Nuclear executes binding Louisiana site-control LOI for Project Cayman power, storage and co-located data-center campus; monetary amount undisclosed and excluded from monetary rollups.
+- Public Ledger now contains 166 records: `LAIS-0001` through `LAIS-0166`.
+- Status composition is 165 `LOGGED` / 1 `CORRECTED`.
+- No governed schema change.
+- Existing `LAIS-0001` through `LAIS-0158` retain the same substantive Ledger values; their release-scoped `dataset_version` provenance field advances from `2026-08-26-r2` to `2026-08-31-r1`.
+- Production `SHA256SUMS.txt` authenticates the canonical CSV and JSON source artifacts; the manifest remains included as release metadata.
+
 ## 2026-08-26-r2 — 2026-08-26
 
 - Added `LAIS-0155`: BetaFlix AI-powered Fabrication Flight Aircraft Maintenance Trainer (FFAMT), $1,249,997 total obligation.
