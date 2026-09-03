@@ -1,5 +1,22 @@
 # Changelog
 
+## 2026-09-02-r2 — 2026-09-02
+
+- Added `LAIS-0167`: NSF 2624464 — LSU AgCenter machine-learning crop-atmosphere modeling; $300,000 current obligation.
+- Added `LAIS-0168`: NSF 2555745 — LSU physics-informed neural-network interpretation of piezocone tests; $349,723.
+- Added `LAIS-0169`: NSF 2636139 — UL Lafayette privacy-aware stress sensing and conversational AI companion; $50,000.
+- Added `LAIS-0170`: NSF 2604976 — Informuta machine-learning platform for predicting multidrug resistance; $312,500 current obligation, with $1.25 million estimated total excluded.
+- Added `LAIS-0171`: SLB reports almost 1,800 Shreveport employees and data-center infrastructure manufacturing since 2024; no disclosed monetary value and excluded from monetary rollups.
+- Added `LAIS-0172`: NSF 2535322 — LSU AI-driven multifunctional-polymer research fellowship; $1,749,000.
+- Corrected `LAIS-0008` to the $100,000 qualifying/additive AI-integral share of Tulane's $150,000 Fall 2025 PPOC slate; the $50,000 non-AI component is excluded.
+- Corrected `LAIS-0019` to exclude the industry-agnostic $50 million Louisiana Growth Fund disclosure from additive AI rollups and changed the record status to `CORRECTED`.
+- Refreshed `LAIS-0026`, `LAIS-0035`, and `LAIS-0048` source-reference URLs to the current approved template without changing their substantive Ledger facts.
+- Public Ledger now contains 172 records: `LAIS-0001` through `LAIS-0172`.
+- Status composition is 170 `LOGGED` / 2 `CORRECTED`.
+- No governed schema change.
+- Of the 166 pre-existing records, five carry the production corrections/source-reference updates described above; the remaining 161 retain the same substantive Ledger values. All pre-existing records advance their release-scoped `dataset_version` provenance field from `2026-08-31-r1` to `2026-09-02-r2`.
+- Production `SHA256SUMS.txt` authenticates the canonical CSV and JSON source artifacts; the manifest remains included as release metadata.
+
 ## 2026-08-31-r1 — 2026-08-31
 
 - Added `LAIS-0159`: N0001424C1302 — ONR AI/ML research contract performed principally in Baton Rouge by Integer Technologies and LSU; $9,826,205 current federal contract obligation.
