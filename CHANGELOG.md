@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-09-03-r1 — 2026-09-03
+
+- Added `LAIS-0173`: FA680024C0014 — Virtualitics A-MSP AI procurement performed at Barksdale AFB; $893,022 current federal obligation.
+- Added `LAIS-0174`: FA680024C0012 — Virtualitics machine-learning readiness applications and AI Platform at Barksdale AFB; $6,524,998.50 current federal obligation, with $44,014,471.66 base-and-all-options value excluded.
+- Added `LAIS-0175`: FA680025P0016 — AFGSC renewal of Virtualitics A-MSP research, development, and licensing; $1,260,000 current federal obligation.
+- Added `LAIS-0176`: FY 2025–26 Act 1 appropriates $200,000 for Louisiana Department of Insurance artificial-intelligence and machine-learning regulatory-efficiency initiatives.
+- Public Ledger now contains 176 records: `LAIS-0001` through `LAIS-0176`.
+- Status composition is 174 `LOGGED` / 2 `CORRECTED`.
+- No governed schema change.
+- Existing `LAIS-0001` through `LAIS-0172` retain the same substantive Ledger values; their release-scoped `dataset_version` provenance field advances from `2026-09-02-r2` to `2026-09-03-r1`.
+- Production `SHA256SUMS.txt` authenticates the CSV, JSON, and manifest for this release.
+
 ## 2026-09-02-r2 — 2026-09-02
 
 - Added `LAIS-0167`: NSF 2624464 — LSU AgCenter machine-learning crop-atmosphere modeling; $300,000 current obligation.

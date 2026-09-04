@@ -10,11 +10,11 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Dataset ID:** `louisiana-ai-signals-public-ledger`
 * **Publisher:** Louisiana AI Hub, LLC
 * **Canonical Ledger:** https://louisianaaihub.com/ledger
-* **Current snapshot date:** 2026-09-02
-* **Current dataset version:** `2026-09-02-r2`
-* **Current record range:** `LAIS-0001` through `LAIS-0172`
-* **Current record count:** 172
-* **Current status composition:** 170 `LOGGED` / 2 `CORRECTED`
+* **Current snapshot date:** 2026-09-03
+* **Current dataset version:** `2026-09-03-r1`
+* **Current record range:** `LAIS-0001` through `LAIS-0176`
+* **Current record count:** 176
+* **Current status composition:** 174 `LOGGED` / 2 `CORRECTED`
 
 ## Authority and scope
 
