@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-10-r1 — 2026-09-10
+
+- Added `LAIS-0177`: LPSC reverses the tribunal ruling and vacates the Meta subpoena in pending U-37882; procedural ruling only, with no monetary amount.
+- Public Ledger now contains 177 records: `LAIS-0001` through `LAIS-0177`.
+- Status composition is 175 `LOGGED` / 2 `CORRECTED`.
+- No governed schema change.
+- Existing `LAIS-0001` through `LAIS-0176` retain the same substantive Ledger values; their release-scoped `dataset_version` provenance field advances from `2026-09-03-r1` to `2026-09-10-r1`.
+- Production `SHA256SUMS.txt` authenticates the CSV, JSON, and manifest for this release.
+
 ## 2026-09-03-r1 — 2026-09-03
 
 - Added `LAIS-0173`: FA680024C0014 — Virtualitics A-MSP AI procurement performed at Barksdale AFB; $893,022 current federal obligation.

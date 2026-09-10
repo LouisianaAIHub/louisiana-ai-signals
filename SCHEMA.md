@@ -4,8 +4,8 @@ This document describes the public distribution schema for the **Louisiana AI Si
 
 **Dataset ID:** `louisiana-ai-signals-public-ledger`
 **Canonical Ledger:** https://louisianaaihub.com/ledger
-**Current dataset version:** `2026-09-03-r1`
-**Current snapshot date:** `2026-09-03`
+**Current dataset version:** `2026-09-10-r1`
+**Current snapshot date:** `2026-09-10`
 
 The Public Ledger at LouisianaAIHub.com remains the authoritative current system of record.
 
@@ -106,7 +106,7 @@ Public source-document or Louisiana AI Hub source-reference location associated 
 
 The field name is retained for schema continuity.
 
-In dataset version `2026-09-03-r1`, Louisiana AI Hub-hosted source locations are expressed as absolute URLs.
+In dataset version `2026-09-10-r1`, Louisiana AI Hub-hosted source locations are expressed as absolute URLs.
 
 Example:
 
@@ -332,7 +332,7 @@ Version identifier of the public distribution containing the record.
 
 Current value:
 
-`2026-09-03-r1`
+`2026-09-10-r1`
 
 The dataset version identifies the distribution release and is distinct from the stable `signal_id`.
 
@@ -497,7 +497,7 @@ https://louisianaaihub.com/ledger
 
 The official public snapshot package includes a machine-readable manifest and `SHA256SUMS.txt`.
 
-The canonical `SHA256SUMS.txt` values can be used to verify the official CSV and JSON source artifacts for this snapshot.
+The canonical `SHA256SUMS.txt` values can be used to verify the official CSV, JSON, and manifest artifacts for this snapshot.
 
 They do not prevent downstream modification.
 
