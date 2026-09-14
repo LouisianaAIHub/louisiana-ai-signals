@@ -1,20 +1,20 @@
 {
   "manifest_schema_version": "1.1",
   "dataset_id": "louisiana-ai-signals-public-ledger",
-  "dataset_name": "Louisiana AI Signals — Public Ledger",
+  "dataset_name": "Louisiana AI Signals \u2014 Public Ledger",
   "publisher": {
     "name": "Louisiana AI Hub, LLC",
     "url": "https://louisianaaihub.com/"
   },
   "canonical_ledger_url": "https://louisianaaihub.com/ledger",
   "citation_and_use_url": "https://louisianaaihub.com/citation-use",
-  "snapshot_date": "2026-09-10",
-  "dataset_version": "2026-09-10-r1",
-  "generated_date": "2026-09-10",
-  "record_count": 177,
+  "snapshot_date": "2026-09-14",
+  "dataset_version": "2026-09-14-r3",
+  "generated_date": "2026-09-14",
+  "record_count": 186,
   "lais_range": {
     "first": "LAIS-0001",
-    "last": "LAIS-0177"
+    "last": "LAIS-0195"
   },
   "system_of_record_note": "The Public Ledger at LouisianaAIHub.com/ledger remains the authoritative current system of record. External files are public distribution snapshots/convenience exports.",
   "integrity_note": "SHA-256 values verify whether a downloaded distribution matches this official snapshot; they do not prevent downstream modification.",
@@ -23,19 +23,20 @@
       "filename": "louisiana-ai-signals-public-ledger.csv",
       "url": "https://louisianaaihub.com/data/louisiana-ai-signals-public-ledger.csv",
       "media_type": "text/csv",
-      "bytes": 118076,
-      "sha256": "634d5cb9e10de7972c9f31654a8545932d7944c18d4f9151f709ba5d016a2650"
+      "bytes": 125100,
+      "sha256": "b2f5c40a9dae45d2aa7bcd13c4bddb1abbe94e48bfc43c7844612846e1a3be81"
     },
     {
       "filename": "louisiana-ai-signals-public-ledger.json",
       "url": "https://louisianaaihub.com/data/louisiana-ai-signals-public-ledger.json",
       "media_type": "application/json",
-      "bytes": 252755,
-      "sha256": "0bbaf3b8dfa3a872135ca711c6748c31e9554a740a1bbdc8272b0a025d6bc832"
+      "bytes": 267672,
+      "sha256": "2dadc894726b1e7f6f1b2783168bfccd63304085d4ccde1e2910a3da35d2d4df"
     }
   ],
-  "logged_signal_count": 175,
-  "corrected_record_count": 2,
+  "logged_signal_count": 182,
+  "corrected_record_count": 4,
   "first_signal_id": "LAIS-0001",
-  "last_signal_id": "LAIS-0177"
+  "last_signal_id": "LAIS-0195",
+  "identifier_note": "Identifiers are stable and non-contiguous; record_count counts occupied historical records."
 }

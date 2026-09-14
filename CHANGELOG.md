@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-09-14-r3 — 2026-09-14
+
+- Added `LAIS-0184`: SEC filing documents the original River Bend land/building PILOT dated October 29, 2025; no additive monetary value.
+- Added `LAIS-0185`: West Feliciana IDB adopts prospective River Bend PILOT distribution resolution; no additive monetary value.
+- Added `LAIS-0186`: West Feliciana School Board approves a $10 million River Bend accelerated PILOT prepayment framework; non-additive and excluded from monetary rollups.
+- Added `LAIS-0187`: West Feliciana School Board approves $7,000 per-employee stipends using incoming River Bend PILOT revenue; aggregate undisclosed and non-additive.
+- Added `LAIS-0190`: UL Lafayette receives a $498,723 LDH award for a rural-health AI platform.
+- Added `LAIS-0191`: Bayou Metal launches a Slidell manufacturing line for AI-enabled ROMULUS vessels; amount undisclosed.
+- Added `LAIS-0192`: Halimar joins the HII ROMULUS production network to build complete AI-enabled vessels; amount undisclosed.
+- Added `LAIS-0193`: Breaux Brothers completes and flips the first ROMULUS structural hull; finished vessel not complete and no monetary value added.
+- Added `LAIS-0195`: ONE Nuclear announces Project Barracuda data-center campus at master-planning stage; investment value undisclosed.
+- Corrected `LAIS-0021` to preserve the $150 million FastSites initial fund as a historical disclosure while excluding it from accepted/additive AI monetary treatment because no qualifying AI-specific allocation is established.
+- Corrected `LAIS-0030` to preserve the separate $50 million FastSites funding increment as a historical disclosure while excluding it from accepted/additive AI monetary treatment because no qualifying AI-specific allocation is established.
+- Public Ledger now contains 186 occupied historical records within the non-contiguous range `LAIS-0001` through `LAIS-0195`.
+- Status composition is 182 `LOGGED` / 4 `CORRECTED`.
+- No governed 27-field record schema change.
+- Existing records other than `LAIS-0021` and `LAIS-0030` retain the same substantive Ledger values; all pre-existing records advance their release-scoped `dataset_version` provenance to `2026-09-14-r3`.
+- Production `SHA256SUMS.txt` authenticates the CSV, JSON, and manifest for this release.
+
 ## 2026-09-10-r1 — 2026-09-10
 
 - Added `LAIS-0177`: LPSC reverses the tribunal ruling and vacates the Meta subpoena in pending U-37882; procedural ruling only, with no monetary amount.
