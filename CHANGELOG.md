@@ -1,5 +1,36 @@
 # Changelog
 
+## 2026-09-28-r2 — 2026-09-28
+
+- External mirror advances directly from `2026-09-14-r3`; the intermediate `2026-09-21-r1` snapshot was not separately published to GitHub or Hugging Face.
+- Added `LAIS-0197`: Smith-Midland awarded $1.7 million utility-vault contract for a northern-Louisiana data center — $1.7 million disclosed contract; non-additive pending project-nesting reconciliation.
+- Added `LAIS-0198`: Tulane awards Cynthia Ebinger grant for AI/ML earthquake detection and volcanic warning — Award amount undisclosed.
+- Added `LAIS-0199`: Tulane awards Arachu Castro grant for interpretable ML child-risk models — Award amount undisclosed.
+- Added `LAIS-0200`: Tulane awards Kissinger and He one grant for ML infection-screening prediction — Award amount undisclosed.
+- Added `LAIS-0201`: Tulane awards Saad Hassan grant for AI-enabled accessible personal-health interfaces — Award amount undisclosed.
+- Added `LAIS-0202`: Tulane awards Vanessa Menard grant for HEROS ML optimization in assay interpretation — Award amount undisclosed.
+- Added `LAIS-0203`: Tulane awards Heather Veneziano grant for ML modeling of undocumented cemetery locations — Award amount undisclosed.
+- Added `LAIS-0204`: Tulane awards Simone Domingue grant to co-design an AI-assisted resilience-planning tool — Award amount undisclosed.
+- Added `LAIS-0205`: Tulane awards Jylana Sheats grant to compare manual and AI-based qualitative analysis — Award amount undisclosed.
+- Added `LAIS-0206`: Tulane awards Fariba Mamaghani grant for Double Machine Learning in electricity-contract research — Award amount undisclosed.
+- Added `LAIS-0207`: Arelion announces Gulf Coast fiber route through Slidell supporting AI and machine-learning connectivity — Undisclosed.
+- Added `LAIS-0208`: IMI secures more-than-$3-million valve contract for Louisiana’s Franklin Farms Power Station — More than $3 million disclosed order; non-additive pending project-nesting reconciliation.
+- Added `LAIS-0209`: Louisiana Board of Regents approves $99,586 for UNO’s AI-centered cybersecurity education — $99,586 state grant.
+- Added `LAIS-0212`: LSU-led DeepFire team wins $100,000 XPRIZE Wildfire Special Recognition award — $100,000 Special Recognition award; disclosed team award, non-additive.
+- Added `LAIS-0214`: LSU Health reports Compassion in Motion AI patient-and-coach project selected for AMA funding — $1.1 million over four years (announced award); non-additive pending current obligation.
+- Added `LAIS-0215`: Louisiana Board of Regents approves $197,916 for LSU’s AI Cyber Risk Lab — $197,916 state grant.
+- Added `LAIS-0216`: LSU-led DeepFire team wins $50,000 XPRIZE Wildfire milestone award — $50,000 milestone award; disclosed team award, non-additive.
+- Added `LAIS-0217`: OralExam.ai team wins $3,250 across two Tulane Open Season pitch prizes — $3,000 first place plus $250 People’s Choice.
+- Added `LAIS-0218`: Prismera AI lease-abstraction venture wins $18,000 LSU Venture Challenge award — $18,000 first-place award.
+- Added `LAIS-0219`: FarmSmart AI agricultural platform wins $20,000 LSU Venture Challenge award — $20,000 first-place award.
+- Added `LAIS-0220`: FarmSmarter.ai AI agricultural team wins $50,000 Entrepreneurship Pelican Cup award — $50,000 team first-place award; separate $2,000 Colin Raby prize excluded.
+- Added `LAIS-0221`: FarmSmarter.ai AI agricultural team earns $7,500 Arkansas Governor’s Cup prize — $7,500 third-place graduate-division award.
+- Public Ledger now contains 208 occupied historical records within the non-contiguous range `LAIS-0001` through `LAIS-0221`.
+- Status composition is 204 `LOGGED` / 4 `CORRECTED`.
+- No governed 27-field record schema change.
+- Existing published records retain the same substantive Ledger values; their release-scoped `dataset_version` provenance advances from `2026-09-14-r3` to `2026-09-28-r2`.
+- Production `SHA256SUMS.txt` authenticates the CSV, JSON, and manifest for this release.
+
 ## 2026-09-14-r3 — 2026-09-14
 
 - Added `LAIS-0184`: SEC filing documents the original River Bend land/building PILOT dated October 29, 2025; no additive monetary value.

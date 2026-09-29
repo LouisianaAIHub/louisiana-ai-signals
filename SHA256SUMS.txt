@@ -1,3 +1,3 @@
-b2f5c40a9dae45d2aa7bcd13c4bddb1abbe94e48bfc43c7844612846e1a3be81  louisiana-ai-signals-public-ledger.csv
-2dadc894726b1e7f6f1b2783168bfccd63304085d4ccde1e2910a3da35d2d4df  louisiana-ai-signals-public-ledger.json
-3d51615c19aab93fb4abaff0a09f259d39f2430352b88288a95321893d9142ae  louisiana-ai-signals-public-ledger-manifest.json
+275f87b8de686c9970faf21d89b28f7656f85b25a267c0007184db0df293499f  louisiana-ai-signals-public-ledger.csv
+70dbb9db72353d7cc9116a69982d4f222a11dd89a776d711053f52132e047493  louisiana-ai-signals-public-ledger.json
+3d50f650075aa8fa7eb799a19064ba00842d0e6b3a90c99c7e9afa22b0681cda  louisiana-ai-signals-public-ledger-manifest.json
