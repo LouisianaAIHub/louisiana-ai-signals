@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-09-r1 — 2026-10-09
+
+- Added `LAIS-0222`: U.S. Navy awards HII production agreement for ten AI-enabled ROMULUS vessels; individual award obligation undisclosed and excluded from monetary rollups.
+- Added `LAIS-0223`: U.S. Navy awards Saronic production OT for ten AI-enabled Marauder vessels; individual award obligation undisclosed and excluded from monetary rollups.
+- Added `LAIS-0224`: LPSC accepts the U-37882 stipulation, vacates the August 6 ALJ ruling, and deems immediate review moot; procedural ruling only with no monetary amount.
+- Public Ledger now contains 211 occupied historical records within the non-contiguous range `LAIS-0001` through `LAIS-0224`.
+- Status composition is 207 `LOGGED` / 4 `CORRECTED`.
+- No governed 27-field record schema change.
+- Existing `LAIS-0001` through `LAIS-0221` retain the same substantive Ledger values; all pre-existing records advance their release-scoped `dataset_version` provenance from `2026-09-28-r2` to `2026-10-09-r1`.
+- Current-state README and schema controls also supersede the stale 186-record prose that remained in the live GitHub documentation after the September 28 release.
+- Production `SHA256SUMS.txt` authenticates the CSV, JSON, and manifest for this release.
+
 ## 2026-09-28-r2 — 2026-09-28
 
 - External mirror advances directly from `2026-09-14-r3`; the intermediate `2026-09-21-r1` snapshot was not separately published to GitHub or Hugging Face.
