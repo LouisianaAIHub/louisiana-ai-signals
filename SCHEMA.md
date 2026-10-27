@@ -4,8 +4,8 @@ This document describes the public distribution schema for the **Louisiana AI Si
 
 **Dataset ID:** `louisiana-ai-signals-public-ledger`
 **Canonical Ledger:** https://louisianaaihub.com/ledger
-**Current dataset version:** `2026-10-09-r1`
-**Current snapshot date:** `2026-10-09`
+**Current dataset version:** `2026-10-27-r1`
+**Current snapshot date:** `2026-10-27`
 
 The Public Ledger at LouisianaAIHub.com remains the authoritative current system of record.
 
@@ -36,7 +36,7 @@ Example:
 
 The LAIS identifier is persistent and must not be renumbered for GitHub, Hugging Face, downstream analysis, or other approved distributions.
 
-LAIS identifiers may be non-contiguous. The current release contains 211 occupied identifiers within the range `LAIS-0001` through `LAIS-0224`; `record_count` counts occupied historical records rather than the numeric width of the identifier range.
+LAIS identifiers may be non-contiguous. The current release contains 256 occupied identifiers within the range `LAIS-0001` through `LAIS-0278`; `record_count` counts occupied historical records rather than the numeric width of the identifier range.
 
 The canonical record URL is derived from this identifier:
 
@@ -108,7 +108,7 @@ Public source-document or Louisiana AI Hub source-reference location associated 
 
 The field name is retained for schema continuity.
 
-In dataset version `2026-10-09-r1`, Louisiana AI Hub-hosted source locations are expressed as absolute URLs.
+In dataset version `2026-10-27-r1`, Louisiana AI Hub-hosted source locations are expressed as absolute URLs.
 
 Example:
 
@@ -334,7 +334,7 @@ Version identifier of the public distribution containing the record.
 
 Current value:
 
-`2026-10-09-r1`
+`2026-10-27-r1`
 
 The dataset version identifies the distribution release and is distinct from the stable `signal_id`.
 
