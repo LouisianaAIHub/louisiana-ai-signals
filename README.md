@@ -16,7 +16,7 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Current record count:** 259
 * **Current status composition:** 255 `LOGGED` / 4 `CORRECTED`
 
-The dataset version `2026-10-27-r2` intentionally differs from the website production package `2026-10-27-r3-AUDITED1`.
+The dataset version `2026-10-27-r2` intentionally differs from the website production package `2026-10-28-r1-AUDITED1`. The October 28 website maintenance release does not change these dataset files.
 
 ## Authority and scope
 
