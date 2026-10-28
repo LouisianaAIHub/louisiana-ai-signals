@@ -11,10 +11,12 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Publisher:** Louisiana AI Hub, LLC
 * **Canonical Ledger:** https://louisianaaihub.com/ledger
 * **Current snapshot date:** 2026-10-27
-* **Current dataset version:** `2026-10-27-r1`
-* **Current record range:** `LAIS-0001` through `LAIS-0278`
-* **Current record count:** 256
-* **Current status composition:** 252 `LOGGED` / 4 `CORRECTED`
+* **Current dataset version:** `2026-10-27-r2`
+* **Current record range:** `LAIS-0001` through `LAIS-0281`
+* **Current record count:** 259
+* **Current status composition:** 255 `LOGGED` / 4 `CORRECTED`
+
+The dataset version `2026-10-27-r2` intentionally differs from the website production package `2026-10-27-r3-AUDITED1`.
 
 ## Authority and scope
 
@@ -24,7 +26,7 @@ It is **not** an independent system of record. The Public Ledger at LouisianaAIH
 
 Louisiana AI Signals records use stable `LAIS-####` identifiers. The same LAIS identifier is retained across LouisianaAIHub.com and approved external distributions.
 
-Identifiers are stable and may be non-contiguous. The current snapshot contains 256 occupied historical records within the range `LAIS-0001` through `LAIS-0278`; record count must not be inferred from the highest identifier.
+Identifiers are stable and may be non-contiguous. The current snapshot contains 259 occupied historical records within the range `LAIS-0001` through `LAIS-0281`; record count must not be inferred from the highest identifier.
 
 This repository is limited to the **Louisiana AI Signals / Public Ledger** dataset.
 

@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-27-r2 — 2026-10-27
+
+- Synchronized the four canonical distribution files with the deployed Public Ledger, verified byte-for-byte against the audited release.
+- Added historical award `LAIS-0279`: NSF 2609899, Louisiana State University, $370,766 current obligation; original award date August 10, 2026.
+- Added historical award `LAIS-0280`: NSF 2403609, Tulane University, $300,000 current obligation; original award date March 19, 2024.
+- Added historical award `LAIS-0281`: NSF 2406412, Southern University, $399,998 current obligation; original award date July 29, 2024. The award is mixed-scope, with no exclusively AI budget allocation established.
+- These are historical awards newly included in this snapshot, not new October 27 announcements. The three additions contribute $1,070,764 to Public/Institutional Awards under the existing aggregation rules.
+- All 256 pre-existing records retain every substantive field and stable ID. Their release-scoped `dataset_version` advances from `2026-10-27-r1` to `2026-10-27-r2`.
+- Current controls: 259 occupied records; 255 `LOGGED` / 4 `CORRECTED`; highest occupied identifier `LAIS-0281`. The next sequence position, `0282`, remains unallocated. Do not infer record count from the highest identifier.
+- No change to the governed 27-field record schema, distribution scope, or governing terms. Canonical CSV, JSON and manifest checksums are supplied in `SHA256SUMS.txt`.
+- Dataset version `2026-10-27-r2` intentionally differs from website production package `2026-10-27-r3-AUDITED1`.
+
 ## 2026-10-27-r1 — 2026-10-27
 
 - External mirror advances directly from `2026-10-09-r1` to `2026-10-27-r1`, incorporating 45 additional published records. Existing identifiers remain unchanged; no missing identifiers are filled or renumbered.
