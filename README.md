@@ -16,7 +16,7 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Current record count:** 259
 * **Current status composition:** 255 `LOGGED` / 4 `CORRECTED`
 
-The dataset version `2026-10-27-r2` intentionally differs from the website production package `2026-10-28-r1-AUDITED1`. The October 28 website maintenance release does not change these dataset files.
+The dataset version `2026-10-27-r2` intentionally differs from the website production package `2026-10-28-r4`. The October 28 website release refines navigation, editorial clarity and the live clock beneath the main header. It does not change these dataset files, record dates or source evidence. The live clock is separate from the dataset snapshot and evidence dates.
 
 ## Authority and scope
 
@@ -113,3 +113,4 @@ For the latest records, corrections, supersessions, methodology, and governing u
 **Citation & Use:** https://louisianaaihub.com/citation-use
 
 **Louisiana AI Hub:** https://louisianaaihub.com/
+

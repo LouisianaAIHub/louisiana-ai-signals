@@ -1,5 +1,13 @@
 # Changelog
 
+## Website package 2026-10-28-r4 — 2026-10-28
+
+- Synchronized this repository's website-package reference with the final r4 production archives. Dataset version remains `2026-10-27-r2`; this is a documentation update, not a new dataset snapshot.
+- Verified that the CSV, JSON, dataset manifest and `SHA256SUMS.txt` already match the files contained in the r4 production archives. No distribution data files are changed.
+- The website release carries forward the final engineering/editorial corrections and places the live Central date/time right-aligned beneath the original header on all 50 content pages. The live clock is separate from source, review and dataset dates.
+- Controls remain 259 published records: 255 `LOGGED` and 4 retained `CORRECTED` records. Highest occupied ID is `LAIS-0281`; `LAIS-0282` remains unallocated. Original event dates, schema, source provenance and governing terms are unchanged.
+- This repository remains the Public Ledger distribution. Website production archives and preserved source documents remain outside its distribution scope.
+
 ## 2026-10-27-r2 — 2026-10-27
 
 - Synchronized the four canonical distribution files with the deployed Public Ledger, verified byte-for-byte against the audited release.
@@ -222,3 +230,4 @@
 - Initial public GitHub / Hugging Face distribution baseline.
 - 150 records: `LAIS-0001` through `LAIS-0150`.
 - Status composition: 149 `LOGGED` / 1 `CORRECTED`.
+
