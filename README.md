@@ -10,13 +10,13 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Dataset ID:** `louisiana-ai-signals-public-ledger`
 * **Publisher:** Louisiana AI Hub, LLC
 * **Canonical Ledger:** https://louisianaaihub.com/ledger
-* **Current snapshot date:** 2026-10-27
-* **Current dataset version:** `2026-10-27-r2`
-* **Current record range:** `LAIS-0001` through `LAIS-0281`
-* **Current record count:** 259
-* **Current status composition:** 255 `LOGGED` / 4 `CORRECTED`
+* **Current snapshot date:** 2026-11-03
+* **Current dataset version:** `2026-11-03-r1`
+* **Current record range:** `LAIS-0001` through `LAIS-0302`
+* **Current record count:** 280
+* **Current status composition:** 276 `LOGGED` / 4 `CORRECTED`
 
-The dataset version `2026-10-27-r2` intentionally differs from the website production package `2026-10-28-r4`. The October 28 website release refines navigation, editorial clarity and the live clock beneath the main header. It does not change these dataset files, record dates or source evidence. The live clock is separate from the dataset snapshot and evidence dates.
+The November 3 website package and public dataset each carry version `2026-11-03-r1`. The dataset adds 21 source-dated events and reflects two current Louisiana obligation adjustments.
 
 ## Authority and scope
 
@@ -26,7 +26,7 @@ It is **not** an independent system of record. The Public Ledger at LouisianaAIH
 
 Louisiana AI Signals records use stable `LAIS-####` identifiers. The same LAIS identifier is retained across LouisianaAIHub.com and approved external distributions.
 
-Identifiers are stable and may be non-contiguous. The current snapshot contains 259 occupied historical records within the range `LAIS-0001` through `LAIS-0281`; record count must not be inferred from the highest identifier.
+Identifiers are stable and may be non-contiguous. The current snapshot contains 280 occupied historical records within the range `LAIS-0001` through `LAIS-0302`; record count must not be inferred from the highest identifier.
 
 This repository is limited to the **Louisiana AI Signals / Public Ledger** dataset.
 

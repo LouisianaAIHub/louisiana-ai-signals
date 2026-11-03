@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-03-r1 — 2026-11-03
+
+Published 21 source-dated records, LAIS-0282 through LAIS-0302, and reconciled current Louisiana obligations for LAIS-0052 and LAIS-0054. The two dated follow-ups reduce the prior award subtotal by $309,200. The release contains 280 published records, including 276 LOGGED and four retained corrections. The 27-field schema and Citation & Use terms continue.
+
+
 ## Website package 2026-10-28-r4 — 2026-10-28
 
 - Synchronized this repository's website-package reference with the final r4 production archives. Dataset version remains `2026-10-27-r2`; this is a documentation update, not a new dataset snapshot.
