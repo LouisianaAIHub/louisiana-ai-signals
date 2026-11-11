@@ -10,13 +10,13 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Dataset ID:** `louisiana-ai-signals-public-ledger`
 * **Publisher:** Louisiana AI Hub, LLC
 * **Canonical Ledger:** https://louisianaaihub.com/ledger
-* **Current snapshot date:** 2026-11-03
-* **Current dataset version:** `2026-11-03-r1`
-* **Current record range:** `LAIS-0001` through `LAIS-0302`
-* **Current record count:** 280
-* **Current status composition:** 276 `LOGGED` / 4 `CORRECTED`
+* **Current snapshot date:** 2026-11-11
+* **Current dataset version:** `2026-11-11-r1`
+* **Current record range:** `LAIS-0001` through `LAIS-0309`
+* **Current record count:** 287
+* **Current status composition:** 280 `LOGGED` / 7 `CORRECTED`
 
-The November 3 website package and public dataset each carry version `2026-11-03-r1`. The dataset adds 21 source-dated events and reflects two current Louisiana obligation adjustments.
+The November 11 website package and public dataset each carry version `2026-11-11-r1`. This release adds seven source-dated records, corrects the classification of three incentive offers, clarifies the funding lineage of one existing NSF award, and standardizes missing numeric values. Original event dates and disclosed numeric amounts are retained. This targeted release review does not claim a fresh review of every statewide source.
 
 ## Authority and scope
 
@@ -26,7 +26,7 @@ It is **not** an independent system of record. The Public Ledger at LouisianaAIH
 
 Louisiana AI Signals records use stable `LAIS-####` identifiers. The same LAIS identifier is retained across LouisianaAIHub.com and approved external distributions.
 
-Identifiers are stable and may be non-contiguous. The current snapshot contains 280 occupied historical records within the range `LAIS-0001` through `LAIS-0302`; record count must not be inferred from the highest identifier.
+Identifiers are stable and may be non-contiguous. The current snapshot contains 287 occupied historical records within the range `LAIS-0001` through `LAIS-0309`; record count must not be inferred from the highest identifier.
 
 This repository is limited to the **Louisiana AI Signals / Public Ledger** dataset.
 
@@ -113,4 +113,5 @@ For the latest records, corrections, supersessions, methodology, and governing u
 **Citation & Use:** https://louisianaaihub.com/citation-use
 
 **Louisiana AI Hub:** https://louisianaaihub.com/
+
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-11-r1 — 2026-11-11
+
+- Added seven source-dated records, LAIS-0303 through LAIS-0309, preserving every prior identifier and original event date. Four Fortalis municipal approvals describe one proposed site; the remaining additions cover the Automatic AI Rice500 prize, Tulane's six-project public-health AI cohort, and Venture Global's announced AI-utility plan.
+- Corrected LAIS-0014, LAIS-0016 and LAIS-0018 to distinguish disclosed incentive offers from documented approvals or payments. These three records remain discoverable as CORRECTED; their disclosed numeric amounts are preserved and excluded from qualifying award totals.
+- Clarified LAIS-0064's NSF 2339741 funding lineage without creating another record or adding the same obligation twice.
+- Standardized numeric missing values as blank fields in the CSV and JSON. Display qualifiers remain meaningful; blank does not mean zero. Original disclosed numeric amounts and source dates are retained.
+- Current controls: 287 occupied records, 280 LOGGED and seven CORRECTED, within the non-contiguous LAIS-0001–LAIS-0309 range. The governed 27-field schema, stable identifiers, distribution scope, and Citation & Use terms continue.
+- Synchronized the canonical CSV, JSON, manifest and checksums with the approved production release. This remains the Public Ledger distribution; website pages, preserved source documents, source-reference PDFs and internal research are not mirrored here.
+
 ## 2026-11-03-r1 — 2026-11-03
 
 Published 21 source-dated records, LAIS-0282 through LAIS-0302, and reconciled current Louisiana obligations for LAIS-0052 and LAIS-0054. The two dated follow-ups reduce the prior award subtotal by $309,200. The release contains 280 published records, including 276 LOGGED and four retained corrections. The 27-field schema and Citation & Use terms continue.
@@ -235,4 +244,5 @@ Published 21 source-dated records, LAIS-0282 through LAIS-0302, and reconciled c
 - Initial public GitHub / Hugging Face distribution baseline.
 - 150 records: `LAIS-0001` through `LAIS-0150`.
 - Status composition: 149 `LOGGED` / 1 `CORRECTED`.
+
 
