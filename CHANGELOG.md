@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-16-r1 — 2026-11-16
+
+- Added three historical records to the production ledger: LAIS-0322, the September 28, 2024 executed Khan Academy/Khanmigo school-year order; LAIS-0323, BESE's December 10, 2025 approval of the $1,014,636 AI component of 2025–26 Direct Student Services funding; and LAIS-0324, Hut 8's November 4, 2026 disclosure of completed structural steel and foundations at River Bend and initial campus-substation energization.
+- The Khan order is unpriced and does not establish account activation. The BESE amount is an approved AI allocation within a mixed $5,883,264 program, not expenditure or an additional amount on top of the parent program. River Bend's completed stage applies only to the named components; it adds no money or MW and does not establish campus commercial operation.
+- Caught up this distribution with LAIS-0310–0315, already published on the website on November 12: SMS/CHIMERA and MICA/AMPERE Louisiana research participation; the $249,967 Army/LSU autonomous-computing award; Treaty Oak/Meta environmental-attribute agreements; and the separate Beekman and Hollis Creek solar-financing disclosures. Louisiana allocations remain undisclosed for the DARPA contracts. Solar financing remains excluded from monetary rollups and is not added to Meta/data-center capex.
+- Caught up this distribution with LAIS-0316–0321, already published on the website on November 13: five LSU/Pennington CAP research disclosures and Tulane NSF award 2515732. Preserve the $1,310,154 nominal institutional-award-class increment, the distinct award-budget/award/obligation bases, parent-funding exclusions, and the unresolved $250,002 versus $250,000 Zhang/Xu disclosure discrepancy.
+- This repository therefore gains 15 records relative to its previous November 11 snapshot; only three are new additions to the production ledger in this release. Original source dates and stable identifiers are retained. The latest accepted source date remains November 10, 2026.
+- Current controls: 302 occupied records, 295 LOGGED and seven CORRECTED, within the non-contiguous LAIS-0001–LAIS-0324 range. No accepted historical record is corrected or renumbered in this release. The governed 27-field schema and governing use terms continue.
+- Synchronized the canonical CSV, JSON, manifest and checksums with the verified production release. Refreshed dataset identity, citation examples and schema snapshot references. This remains the Public Ledger distribution; website pages, preserved source documents, SourceReference PDFs and internal research are outside its scope.
+
 ## 2026-11-11-r1 — 2026-11-11
 
 - Added seven source-dated records, LAIS-0303 through LAIS-0309, preserving every prior identifier and original event date. Four Fortalis municipal approvals describe one proposed site; the remaining additions cover the Automatic AI Rice500 prize, Tulane's six-project public-health AI cohort, and Venture Global's announced AI-utility plan.
