@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-11-18-r1 — November 18, 2026
+
+Ten historical additions bring the ledger to 312 records through LAIS-0334, including 305 LOGGED and seven CORRECTED. The NASA contract records a $149,928 federal obligation to the prime. Six competition prizes disclose $49,000 combined. The seventh prize, the original West Shreveport permit and the Waterford 5 milestone carry no disclosed amount. The latest accepted source date is November 12.
+
+The November 18 court ruling and Cleco ownership vote are documented in the website's [Verified Changes](https://louisianaaihub.com/louisiana-ai-news). All 27 distribution fields, prior record IDs and original event dates are preserved.
+
+## Website package 2026-11-17-r1 — 2026-11-17
+
+The Hub added four source-backed updates to existing project pages.
+
+- Richland Parish. The LDEQ air-permit index lists October 22 for stations 1 and 2. It shows a dash in the issue-date field for stations 3 and 4.
+- Babel–Webre. Six scenic-river applications identify proposed crossings along the 500 kV line. Crossing approvals remain unverified.
+- Mowata Solar. The issuer’s project page lists 185 MWdc and 150 MWac. The dated power purchase agreement announcement reports 172 MWdc and 150 MWac.
+- West Shreveport. STACK projected 750 construction jobs at Resilient Technology Park within its regional estimate of up to 2,250 across three campuses.
+
+The public ledger continues at `2026-11-16-r1`, with 302 records across 27 fields (295 LOGGED and seven CORRECTED). The CSV, JSON, distribution manifest and checksums match that snapshot.
+
+[Verified Changes](https://louisianaaihub.com/louisiana-ai-news#november-17-evidence-update) · [Source Register](https://louisianaaihub.com/source-register#release-evidence-20261117)
+
 ## 2026-11-16-r1 — 2026-11-16
 
 - Added three historical records to the production ledger: LAIS-0322, the September 28, 2024 executed Khan Academy/Khanmigo school-year order; LAIS-0323, BESE's December 10, 2025 approval of the $1,014,636 AI component of 2025–26 Direct Student Services funding; and LAIS-0324, Hut 8's November 4, 2026 disclosure of completed structural steel and foundations at River Bend and initial campus-substation energization.

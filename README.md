@@ -10,13 +10,13 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Dataset ID:** `louisiana-ai-signals-public-ledger`
 * **Publisher:** Louisiana AI Hub, LLC
 * **Canonical Ledger:** https://louisianaaihub.com/ledger
-* **Current snapshot date:** 2026-11-16
-* **Current dataset version:** `2026-11-16-r1`
-* **Current record range:** `LAIS-0001` through `LAIS-0324`
-* **Current record count:** 302
-* **Current status composition:** 295 `LOGGED` / 7 `CORRECTED`
+* **Current snapshot date:** 2026-11-18
+* **Current dataset version:** `2026-11-18-r1`
+* **Current record range:** `LAIS-0001` through `LAIS-0334`
+* **Current record count:** 312
+* **Current status composition:** 305 `LOGGED` / 7 `CORRECTED`
 
-The November 16 public dataset carries version `2026-11-16-r1`. This release adds three historical records to the production ledger: an executed Khanmigo school-year order, the approved AI component of BESE Direct Student Services funding, and a completed-component milestone at River Bend. It also brings this distribution up to date with 12 records already published on the website on November 12–13. The 15 records newly included in this repository retain their original source dates; they are not 15 new November 16 events. Existing historical records, the 27-field schema, and governing use terms are preserved. This targeted release review does not claim a fresh review of every statewide source.
+The November 18 release adds ten historical records covering a NASA research contract, a Waterford 5 notice to proceed, the original West Shreveport permit and seven competition prizes. November 12 is the latest accepted source date. The website documents the November 18 West Shreveport appellate ruling and Cleco ownership vote in [Verified Changes](https://louisianaaihub.com/louisiana-ai-news).
 
 ## Authority and scope
 
@@ -26,7 +26,7 @@ It is **not** an independent system of record. The Public Ledger at LouisianaAIH
 
 Louisiana AI Signals records use stable `LAIS-####` identifiers. The same LAIS identifier is retained across LouisianaAIHub.com and approved external distributions.
 
-Identifiers are stable and may be non-contiguous. The current snapshot contains 302 occupied historical records within the range `LAIS-0001` through `LAIS-0324`; record count must not be inferred from the highest identifier.
+Identifiers are stable and may be non-contiguous. The current snapshot contains 312 occupied historical records within the range `LAIS-0001` through `LAIS-0334`; record count must not be inferred from the highest identifier.
 
 This repository is limited to the **Louisiana AI Signals / Public Ledger** dataset.
 

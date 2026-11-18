@@ -8,13 +8,13 @@
   },
   "canonical_ledger_url": "https://louisianaaihub.com/ledger",
   "citation_and_use_url": "https://louisianaaihub.com/citation-use",
-  "snapshot_date": "2026-11-16",
-  "dataset_version": "2026-11-16-r1",
-  "generated_date": "2026-11-16",
-  "record_count": 302,
+  "snapshot_date": "2026-11-18",
+  "dataset_version": "2026-11-18-r1",
+  "generated_date": "2026-11-18",
+  "record_count": 312,
   "lais_range": {
     "first": "LAIS-0001",
-    "last": "LAIS-0324"
+    "last": "LAIS-0334"
   },
   "system_of_record_note": "The Public Ledger at LouisianaAIHub.com/ledger remains the authoritative current system of record. External files are public distribution snapshots/convenience exports.",
   "integrity_note": "SHA-256 values verify whether a downloaded distribution matches this official snapshot; they do not prevent downstream modification.",
@@ -23,20 +23,20 @@
       "filename": "louisiana-ai-signals-public-ledger.csv",
       "url": "https://louisianaaihub.com/data/louisiana-ai-signals-public-ledger.csv",
       "media_type": "text/csv",
-      "bytes": 213314,
-      "sha256": "48520de9dfae7f1bc7c03d165ca24806498234c641b5fe6fd063a6d548dfb327"
+      "bytes": 221279,
+      "sha256": "cf4710ed53787fc80e59f6dca0d7099209cd8565d38a9904ffdef381f9a171eb"
     },
     {
       "filename": "louisiana-ai-signals-public-ledger.json",
       "url": "https://louisianaaihub.com/data/louisiana-ai-signals-public-ledger.json",
       "media_type": "application/json",
-      "bytes": 443172,
-      "sha256": "496c7c00857543a22a99336196c930fe4dc56e201e361a68651d5d8e0698b6af"
+      "bytes": 458497,
+      "sha256": "ef93063855d8d2024d05f17ce98f2ef8b8f198f1b630d569f609395d09ca0a3b"
     }
   ],
-  "logged_signal_count": 295,
+  "logged_signal_count": 305,
   "corrected_record_count": 7,
   "first_signal_id": "LAIS-0001",
-  "last_signal_id": "LAIS-0324",
+  "last_signal_id": "LAIS-0334",
   "identifier_note": "Identifiers are stable and non-contiguous; record_count counts occupied historical records."
 }
