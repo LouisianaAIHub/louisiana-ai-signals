@@ -1,5 +1,13 @@
 # Changelog
 
+## Website package 2026-11-18-r4 — November 18, 2026
+
+All 138 saved webpage notes now display the same Louisiana AI Hub logo as the home page. [Amazon source note](https://louisianaaihub.com/source-reading/2026-08-18-amazon-northwest-louisiana-18b-updated-official-webpage-capture)
+
+The RT-422 source notes, Source Register and search now identify LSU’s Computing and Informatics in Construction and Infrastructure Laboratory and Texas A&M’s Safety Systems.AI Lab. A dated clarification accompanies the original reference sheet. The SOWELA note identifies the Regents tracker as the source for the December 10, 2025 approval and links the board minutes for the degree title. [RT-422 sources](https://louisianaaihub.com/source-register#2026-11-03-lsu-cii-rt422-construction-safety-sourcereference) · [SOWELA source note](https://louisianaaihub.com/source-reading/regents-sowela-program-tracker)
+
+All 32 printable project briefings now take their dates from the current release metadata. The public dataset is `2026-11-18-r1`, with 312 records through LAIS-0334. All four dataset files and all 953 preserved sources match the previous release. [Example project briefing](https://louisianaaihub.com/evidence-briefing?project=spacex-starbase)
+
 ## Website package 2026-11-18-r3 — November 18, 2026
 
 The parish explorer and project comparisons now use descriptive citations. The SpaceX power and water notes open the Hub’s dated September 28 profile excerpt. The payment figures link to the signed local tax agreement and the corresponding ledger entry. [SpaceX parish panel](https://louisianaaihub.com/louisiana-ai-parishes?selected=spacex-starbase) · [Dated power and water notes](https://louisianaaihub.com/evidence-notes/spacex-starbase-2026-09-28#utilities) · [Ledger record LAIS-0153](https://louisianaaihub.com/ledger#lais-0153)
