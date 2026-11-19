@@ -1,5 +1,13 @@
 # Changelog
 
+## Website package 2026-11-18-r3 — November 18, 2026
+
+The parish explorer and project comparisons now use descriptive citations. The SpaceX power and water notes open the Hub’s dated September 28 profile excerpt. The payment figures link to the signed local tax agreement and the corresponding ledger entry. [SpaceX parish panel](https://louisianaaihub.com/louisiana-ai-parishes?selected=spacex-starbase) · [Dated power and water notes](https://louisianaaihub.com/evidence-notes/spacex-starbase-2026-09-28#utilities) · [Ledger record LAIS-0153](https://louisianaaihub.com/ledger#lais-0153)
+
+The Source Register and search results now open readable notes for 138 preserved webpages. Each note identifies the source and date. Source details links to text recovered from the saved page and the original HTML. [Source Register](https://louisianaaihub.com/source-register)
+
+The public dataset remains `2026-11-18-r1`, with 312 records through LAIS-0334. All four dataset distribution files and 953 preserved sources match the preceding website release.
+
 ## Website package 2026-11-18-r2 — November 18, 2026
 
 The parish map and search now appear before the dated updates. The Site readiness section has higher-contrast parish links. [Parish page](https://louisianaaihub.com/louisiana-ai-parishes)
