@@ -1,5 +1,13 @@
 # Changelog
 
+## Website package 2026-11-18-r2 — November 18, 2026
+
+The parish map and search now appear before the dated updates. The Site readiness section has higher-contrast parish links. [Parish page](https://louisianaaihub.com/louisiana-ai-parishes)
+
+The Source Register now leads readers to preserved LSU accounting reports and includes two recovered sources. The commission’s May 7 proposed agenda documents scheduled topics. The October 22 university board index preserves the Pecan Island attachment listing. The two earlier draft attachments remain unavailable at their original URLs. The archive now holds 953 files. [LPSC agenda](https://louisianaaihub.com/source-register#native-20261118-lpsc-may7-agenda) · [University board index](https://louisianaaihub.com/source-register#native-20261118-pecan-board-index)
+
+The public dataset remains `2026-11-18-r1`, with 312 records through LAIS-0334. The CSV, JSON, manifest and checksums match the previously published dataset.
+
 ## 2026-11-18-r1 — November 18, 2026
 
 Ten historical additions bring the ledger to 312 records through LAIS-0334, including 305 LOGGED and seven CORRECTED. The NASA contract records a $149,928 federal obligation to the prime. Six competition prizes disclose $49,000 combined. The seventh prize, the original West Shreveport permit and the Waterford 5 milestone carry no disclosed amount. The latest accepted source date is November 12.
