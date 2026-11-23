@@ -10,13 +10,13 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Dataset ID:** `louisiana-ai-signals-public-ledger`
 * **Publisher:** Louisiana AI Hub, LLC
 * **Canonical Ledger:** https://louisianaaihub.com/ledger
-* **Current snapshot date:** 2026-11-18
-* **Current dataset version:** `2026-11-18-r1`
-* **Current record range:** `LAIS-0001` through `LAIS-0334`
-* **Current record count:** 312
-* **Current status composition:** 305 `LOGGED` / 7 `CORRECTED`
+* **Current snapshot date:** 2026-11-21
+* **Current dataset version:** `2026-11-21-r1`
+* **Current record range:** `LAIS-0001` through `LAIS-0343`
+* **Current record count:** 321
+* **Current status composition:** 314 `LOGGED` / 7 `CORRECTED`
 
-The November 18 release adds ten historical records covering a NASA research contract, a Waterford 5 notice to proceed, the original West Shreveport permit and seven competition prizes. November 12 is the latest accepted source date. The website documents the November 18 West Shreveport appellate ruling and Cleco ownership vote in [Verified Changes](https://louisianaaihub.com/louisiana-ai-news).
+The November 21 release adds nine historical records: ONE Nuclear’s revised Louisiana project configuration; Port NOLA/NOPB’s AI rail-clearance partnership; the Army’s $95,000 Hermes Robotics award; four unpriced LSU seed selections; a $5 million NASA award; and a $2.5 million NIST award. November 16 is the latest accepted source date. Federal obligations are not expenditures, and the LSU selections do not allocate the mixed parent program’s funding. Related regulatory, construction-workforce and utility context is documented separately in [Verified Changes](https://louisianaaihub.com/louisiana-ai-news).
 
 ## Authority and scope
 
@@ -26,7 +26,7 @@ It is **not** an independent system of record. The Public Ledger at LouisianaAIH
 
 Louisiana AI Signals records use stable `LAIS-####` identifiers. The same LAIS identifier is retained across LouisianaAIHub.com and approved external distributions.
 
-Identifiers are stable and may be non-contiguous. The current snapshot contains 312 occupied historical records within the range `LAIS-0001` through `LAIS-0334`; record count must not be inferred from the highest identifier.
+Identifiers are stable and may be non-contiguous. The current snapshot contains 321 occupied historical records within the range `LAIS-0001` through `LAIS-0343`; record count must not be inferred from the highest identifier.
 
 This repository is limited to the **Louisiana AI Signals / Public Ledger** dataset.
 
@@ -54,7 +54,7 @@ The CSV and JSON contain the governed Public Ledger records and approved provena
 
 The manifest identifies the publisher, dataset version, snapshot date, canonical authority, record range, distribution files, and integrity information.
 
-`SHA256SUMS.txt` provides SHA-256 hashes for the canonical CSV, JSON, and manifest distribution files.
+`SHA256SUMS.txt` provides SHA-256 hashes for the canonical CSV and JSON distribution files. The accompanying manifest supplies release metadata and repeats those two file hashes.
 
 ## Record provenance
 

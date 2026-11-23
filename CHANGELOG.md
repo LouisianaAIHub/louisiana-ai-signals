@@ -1,5 +1,26 @@
 # Changelog
 
+## Website package 2026-11-21-r2 — November 21, 2026
+
+The Public Ledger now shows only the latest release summary above the search and filters. Four older release notices remain available in [Verified Changes](https://louisianaaihub.com/louisiana-ai-news). Existing historical fragment destinations are retained at the previous-updates link. The dataset remains `2026-11-21-r1`: 321 records through LAIS-0343, with 314 LOGGED and seven CORRECTED. All four dataset files, 982 preserved sources and search scripts are unchanged from website release r1.
+
+## 2026-11-21-r1 — November 21, 2026
+
+Nine historical additions bring the public ledger to 321 occupied records through LAIS-0343: 314 LOGGED and seven CORRECTED. The latest accepted source date is November 16. This is the website and dataset release date; original event dates remain intact.
+
+- LAIS-0335: ONE Nuclear’s November 16 SEC disclosure of the revised Cayman, Barracuda and Amberjack Louisiana configuration. Proposed capacity and conditional site-control LOIs do not establish executed options, payments, permits or delivered capacity. Unpriced; no monetary increment or new terrestrial project family.
+- LAIS-0336: Port NOLA/NOPB’s May 28 partnership with UTC Transoceanic for AI-powered oversized-cargo rail-clearance technology. Unpriced announced partnership; no priced contract or commissioning claim.
+- LAIS-0337: the Army’s February 27, 2024 Hermes Robotics award, W9124724P0022, for autonomous-system installation and training at Fort Johnson. The $95,000 federal obligation is counted once within Public Procurement, not as expenditure. The revised solicitation and Q&A establish the qualifying scope.
+- LAIS-0338–0341: four April 1 LSU seed-selection disclosures for Silva, Jafari, Zhou and Hogan. Each is unpriced; the mixed parent program’s $1.8 million is not assigned to these records or added to monetary totals.
+- LAIS-0342: NASA award 80NSSC26K0533, August 6, with a $5 million federal obligation for LSU digital-twin, digital-human and Digital Twin Core capabilities.
+- LAIS-0343: NIST award 60NANB26D262, August 28, with a $2.5 million federal obligation for LSU EMSight adaptive computing and digital-twin interfaces. The NASA and NIST amounts remain in the institutional-award class, separate from data-center capex.
+
+The website also documents the conditional Better Louisiana construction-workforce forecast, New Orleans data-center zoning procedure, the November 20 LPSC advanced-nuclear exploration order and Entergy’s quarterly construction/ROW context. These are bounded context updates, not additional ledger records or monetary increments. The preserved source inventory is 982 files and 390 SourceReferences; six terrestrial project families remain six. Source files and readable source notes remain on the canonical website and are not added to this dataset repository.
+
+All 27 record fields remain in place. The prior 312 records retain their substantive fields, original dates, IDs, corrections and supersession mappings; only their release-scoped dataset_version advances. CSV, JSON, manifest and checksum files match the deployed website byte for byte. The current checksum file authenticates the CSV and JSON; the manifest accompanies them as release metadata. Search now recognizes the additive-once wording in the new records and preserves decimal amounts in excerpts. Current displayed ONE project figures, release labels and class subtotals were reconciled. Citation guidance, schema release labels and this changelog were synchronized; use terms are unchanged.
+
+Canonical release: [Verified Changes](https://louisianaaihub.com/louisiana-ai-news) · [Ledger](https://louisianaaihub.com/ledger) · [Source Register](https://louisianaaihub.com/source-register)
+
 ## Website package 2026-11-18-r4 — November 18, 2026
 
 All 138 saved webpage notes now display the same Louisiana AI Hub logo as the home page. [Amazon source note](https://louisianaaihub.com/source-reading/2026-08-18-amazon-northwest-louisiana-18b-updated-official-webpage-capture)
