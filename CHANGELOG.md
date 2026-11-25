@@ -1,5 +1,30 @@
 # Changelog
 
+## Website package 2026-11-25-r2 — November 25, 2026
+
+The accepted dataset remains `2026-11-24-r1`: 328 records through LAIS-0350, including 321 LOGGED and seven CORRECTED. Subsequent website-only work carries forward the Evidence/Platform Overview count reconciliation and separates the November 23 latest accepted signal from the November 24 release review. Platform Overview's four latest accepted cards and the Cayman/Barracuda project comparison now reflect already accepted source-dated context; unlike capacity measures remain separate.
+
+The website preserves the November 24 Cleco U-37963 written order and Attachment A as provisional corroboration of the existing Commission action. The earlier outstanding-order wording is identified as dated history. Immediate order effectiveness does not establish transaction closing, Delta Forge service approval, new investment or capacity; U-37963 remains separate from U-38035.
+
+The LAIS-0345 supplement preserves SEC Form 8-K, Exhibit 99.2 and filing-index provenance, maintaining the November 23 announcement / November 24 filing distinction. Item 7.01 material is furnished; SEC hosting does not verify the issuer assertions. Conditional delayed draws, an undisclosed drawn amount and the existing non-additive $300 million facility treatment remain intact. No duplicate event or additional $300 million is introduced.
+
+GRID-LA (NSF 2638805) remains a qualification review with no accepted LAIS ID and no amount in this dataset or its monetary totals. Cleco, SEC-provenance and Babel–Webre verification gates remain pending; unresolved SWEPCO/FERC, SpaceX IDB, England execution and readiness leads are not promoted. The website's eight additional review files and three provisional reference sheets remain outside this dataset repository. Search distinguishes preserved files from readable source notes. No Ledger rows, IDs, schema fields or dataset bytes change in this website-only release.
+
+## Dataset 2026-11-24-r1 — November 24, 2026
+
+This distribution catches up the accepted canonical dataset with seven records beyond the prior GitHub `2026-11-21-r1` snapshot. The five November 23 additions and two November 24 historical additions retain their original source dates; these release dates are not new award dates.
+
+- LAIS-0344 — November 19, 2026: England Authority's amended Delta Forge 1 PILOT and agreement-to-issue-bonds authorization. Unpriced board action; execution and bond issuance remain unverified. Excluded from all monetary rollups.
+- LAIS-0345 — November 23, 2026: Applied Digital reports closing a $300 million senior-secured delayed-draw bridge facility for Delta Forge 1. Facility face amount, not drawn funds, expenditure or additional capex; excluded from all monetary rollups and non-additive with project capex.
+- LAIS-0346 and LAIS-0347 — February 21, 2025: FUEL award allocations of $171,000 to ApplicaRAD and $200,000 to CodeGig for AI-enabled carbon sensors and AI/ML emissions analytics.
+- LAIS-0348 — May 5, 2026: FUEL's $197,769 allocation to Eray Geophysical for machine-learning seismic software. The three FUEL child awards add $568,769 once within Public/Institutional Awards. They are issuer-reported allocations, not verified expenditure, parent-program additions or data-center capex; parish remains unassigned.
+- LAIS-0349 — March 21, 2024: NSF 2331294, LSU machine-learning brain biomechanics, at $338,766 current cumulative federal obligation.
+- LAIS-0350 — August 4, 2026: NSF 2608047, LSU-led IGWN computing infrastructure, at $2,135,000 current cumulative federal obligation. The two whole-award obligations add $2,473,766 within Public/Institutional Awards; estimated totals and consortium subawards are not added. These are not expenditures or exclusively AI spending.
+
+Controls are 328 occupied records, 321 LOGGED and seven CORRECTED, through the stable, non-contiguous LAIS-0350 range. November 23 remains the latest accepted source date. The prior 321 records retain every substantive field, date, ID, correction and supersession mapping; only their release-scoped dataset_version advances. The 27-field schema remains unchanged. The CSV, JSON, manifest and SHA256SUMS files match the canonical released website byte for byte; the checksum file now covers the manifest as well as the CSV and JSON. Citation and schema snapshot references are synchronized, and governing use terms remain unchanged.
+
+Canonical history: [November 23 additions](https://louisianaaihub.com/louisiana-ai-news#nov23-release-update) · [November 24 additions](https://louisianaaihub.com/louisiana-ai-news#nov24-release-update) · [Ledger](https://louisianaaihub.com/ledger) · [Source Register](https://louisianaaihub.com/source-register)
+
 ## Website package 2026-11-21-r2 — November 21, 2026
 
 The Public Ledger now shows only the latest release summary above the search and filters. Four older release notices remain available in [Verified Changes](https://louisianaaihub.com/louisiana-ai-news). Existing historical fragment destinations are retained at the previous-updates link. The dataset remains `2026-11-21-r1`: 321 records through LAIS-0343, with 314 LOGGED and seven CORRECTED. All four dataset files, 982 preserved sources and search scripts are unchanged from website release r1.

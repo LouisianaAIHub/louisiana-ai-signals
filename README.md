@@ -10,13 +10,15 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 * **Dataset ID:** `louisiana-ai-signals-public-ledger`
 * **Publisher:** Louisiana AI Hub, LLC
 * **Canonical Ledger:** https://louisianaaihub.com/ledger
-* **Current snapshot date:** 2026-11-21
-* **Current dataset version:** `2026-11-21-r1`
-* **Current record range:** `LAIS-0001` through `LAIS-0343`
-* **Current record count:** 321
-* **Current status composition:** 314 `LOGGED` / 7 `CORRECTED`
+* **Current snapshot date:** 2026-11-24
+* **Current dataset version:** `2026-11-24-r1`
+* **Current record range:** `LAIS-0001` through `LAIS-0350`
+* **Current record count:** 328
+* **Current status composition:** 321 `LOGGED` / 7 `CORRECTED`
 
-The November 21 release adds nine historical records: ONE Nuclear’s revised Louisiana project configuration; Port NOLA/NOPB’s AI rail-clearance partnership; the Army’s $95,000 Hermes Robotics award; four unpriced LSU seed selections; a $5 million NASA award; and a $2.5 million NIST award. November 16 is the latest accepted source date. Federal obligations are not expenditures, and the LSU selections do not allocate the mixed parent program’s funding. Related regulatory, construction-workforce and utility context is documented separately in [Verified Changes](https://louisianaaihub.com/louisiana-ai-news).
+The November 24 dataset incorporates seven records beyond the prior November 21 snapshot: England Authority's amended Delta Forge 1 authorization; Applied Digital's $300 million delayed-draw bridge facility; three historical FUEL AI/ML awards; and two historical LSU-led NSF awards. Original source dates are retained. November 23 is the latest accepted source date; November 24 is the dataset/release-review date. The financing facility is non-additive and excluded from monetary rollups; award allocations and federal obligations are not expenditure.
+
+The subsequent website release is `2026-11-25-r2`. Its display corrections and provisional Cleco U-37963, LAIS-0345 SEC-provenance and GRID-LA source reviews do not change this accepted dataset. GRID-LA has no accepted LAIS identifier and is excluded from these exports and monetary totals. The source supplements do not add another $300 million, establish transaction closing or approve Delta Forge service. Source files and contextual updates remain on the canonical website. See [Changelog](CHANGELOG.md) and [Verified Changes](https://louisianaaihub.com/louisiana-ai-news).
 
 ## Authority and scope
 
@@ -26,7 +28,7 @@ It is **not** an independent system of record. The Public Ledger at LouisianaAIH
 
 Louisiana AI Signals records use stable `LAIS-####` identifiers. The same LAIS identifier is retained across LouisianaAIHub.com and approved external distributions.
 
-Identifiers are stable and may be non-contiguous. The current snapshot contains 321 occupied historical records within the range `LAIS-0001` through `LAIS-0343`; record count must not be inferred from the highest identifier.
+Identifiers are stable and may be non-contiguous. The current snapshot contains 328 occupied historical records within the range `LAIS-0001` through `LAIS-0350`; record count must not be inferred from the highest identifier.
 
 This repository is limited to the **Louisiana AI Signals / Public Ledger** dataset.
 
@@ -54,7 +56,7 @@ The CSV and JSON contain the governed Public Ledger records and approved provena
 
 The manifest identifies the publisher, dataset version, snapshot date, canonical authority, record range, distribution files, and integrity information.
 
-`SHA256SUMS.txt` provides SHA-256 hashes for the canonical CSV and JSON distribution files. The accompanying manifest supplies release metadata and repeats those two file hashes.
+`SHA256SUMS.txt` provides SHA-256 hashes for the canonical CSV, JSON and manifest distribution files. The manifest supplies release metadata and repeats the CSV and JSON file hashes.
 
 ## Record provenance
 
