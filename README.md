@@ -18,7 +18,7 @@ Official versioned public distribution of the **Louisiana AI Signals — Public 
 
 The November 24 dataset incorporates seven records beyond the prior November 21 snapshot: England Authority's amended Delta Forge 1 authorization; Applied Digital's $300 million delayed-draw bridge facility; three historical FUEL AI/ML awards; and two historical LSU-led NSF awards. Original source dates are retained. November 23 is the latest accepted source date; November 24 is the dataset/release-review date. The financing facility is non-additive and excluded from monetary rollups; award allocations and federal obligations are not expenditure.
 
-The subsequent website release is `2026-11-25-r2`. Its display corrections and provisional Cleco U-37963, LAIS-0345 SEC-provenance and GRID-LA source reviews do not change this accepted dataset. GRID-LA has no accepted LAIS identifier and is excluded from these exports and monetary totals. The source supplements do not add another $300 million, establish transaction closing or approve Delta Forge service. Source files and contextual updates remain on the canonical website. See [Changelog](CHANGELOG.md) and [Verified Changes](https://louisianaaihub.com/louisiana-ai-news).
+The current website release is `2026-11-27-r1`; the accepted dataset remains `2026-11-24-r1`. The website carries the November 26 EPIC Piping ownership and Pecan Island university-announced agreement context, followed by November 27 source-count and search-label corrections. These changes add no accepted Ledger rows or IDs. Cleco U-37963, Babel–Webre U-37812, LAIS-0345 SEC-provenance and GRID-LA review gates remain pending. GRID-LA has no accepted LAIS identifier and is excluded from these exports and monetary totals. The source supplements do not add another $300 million, establish transaction closing or approve Delta Forge service. Source files and contextual updates remain on the canonical website. See [Changelog](CHANGELOG.md) and [Verified Changes](https://louisianaaihub.com/louisiana-ai-news).
 
 ## Authority and scope
 
@@ -115,5 +115,3 @@ For the latest records, corrections, supersessions, methodology, and governing u
 **Citation & Use:** https://louisianaaihub.com/citation-use
 
 **Louisiana AI Hub:** https://louisianaaihub.com/
-
-

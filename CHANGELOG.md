@@ -1,5 +1,21 @@
 # Changelog
 
+## Website package 2026-11-27-r1 — November 27, 2026
+
+The accepted dataset remains `2026-11-24-r1`: 328 occupied records, 321 LOGGED / 7 CORRECTED, through LAIS-0350. This website release reconciles Evidence's visible inventory to 1,008 preserved source files and 400 reference PDFs (998 baseline files + 8 provisional files + 2 context records), preserves individual source-file titles and raw-file destinations in search, labels source notes separately, and resolves the shared NASA/NIST transaction-count response by its registered context. These display and discovery changes do not change dataset bytes, accepted IDs, frozen historical records, monetary treatment or governing use terms.
+
+The deployed website was checked after Austin's cache purge. Live page, navigation, search, Ledger filter, comparison and export checks passed within the tested scope; canonical CSV/JSON, manifest and checksums match the accepted dataset. The prior independent candidate review applies to sealed manifest `4edd9c66375d4df96218d5e79334d1f63a4f2ca67c0b3a948ab42469377a1776`. Functional checks do not constitute production load-capacity measurement or legal certification.
+
+## Website context carried forward from November 26, 2026
+
+EPIC Piping ownership context records Bernhard's October 1 closing announcement, retaining the July conditional agreement as dated history. LAIS-0017 and LAIS-0018 expansion records are unchanged; no deal value, additional spend or capacity is inferred.
+
+Pecan Island context records UL Lafayette's announcement of a SpaceX lease agreement. Executed controlling instruments, performance and payments remain unverified; this is distinct from the Vermilion IDB instrument, permit approval and terrestrial data-center capacity. No additional monetary event is accepted.
+
+Cleco U-37963, Babel–Webre U-37812, LAIS-0345 SEC provenance and GRID-LA retain their review gates. U-37963 is separate from U-38035; 500 kV is voltage, not capacity; the existing $300 million delayed-draw facility is non-additive and does not establish a draw. GRID-LA remains a planning-award qualification review without an accepted ID or amount in the exports. Unresolved execution, title, bond, zoning, readiness, SWEPCO/FERC and SpaceX IDB leads remain on hold. No monitoring schedule changes.
+
+Canonical context: [Evidence](https://louisianaaihub.com/evidence) · [Source Register](https://louisianaaihub.com/source-register) · [EPIC ownership note](https://louisianaaihub.com/source-reading/2026-11-26-epic-ownership) · [Pecan Island note](https://louisianaaihub.com/source-reading/2026-11-26-pecan-island)
+
 ## Website package 2026-11-25-r2 — November 25, 2026
 
 The accepted dataset remains `2026-11-24-r1`: 328 records through LAIS-0350, including 321 LOGGED and seven CORRECTED. Subsequent website-only work carries forward the Evidence/Platform Overview count reconciliation and separates the November 23 latest accepted signal from the November 24 release review. Platform Overview's four latest accepted cards and the Cayman/Barracuda project comparison now reflect already accepted source-dated context; unlike capacity measures remain separate.
